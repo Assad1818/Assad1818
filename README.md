@@ -46,10 +46,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Assad1818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assad1818&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -60,7 +60,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=false"/>
+src="https://streak-stats.demolab.com?user=Assad1818&theme=tokyonight&hide_border=false"/>
 
 </div>
 
